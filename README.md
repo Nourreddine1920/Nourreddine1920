@@ -100,6 +100,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   <a  target="_blank"> 
    <img alt="PIC Microcontrolleur" src="https://img.shields.io/badge/PIC%20Microcontrolleur-%23FF2D20.svg?logo=laravel&logoColor=white">
   </a>
+	&emsp;
   <a  target="_blank"> 
    <img alt="FPGA" src="https://img.shields.io/badge/FPGA-%23FF2D20.svg?logo=laravel&logoColor=white">
   </a>  
@@ -237,9 +238,6 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   &emsp;
     <a href="#"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a>
       &emsp;
-    
-   
-  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
