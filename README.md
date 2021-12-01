@@ -24,7 +24,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
 
  ### My Github Infos
 
-<a href="https://github.com/Nourreddine1920"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khairi-brahmi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nourreddine1920"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nourreddine1920&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
 <p align="center" href="https://github.com/Nourreddine1920">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920"/>
