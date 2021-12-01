@@ -46,7 +46,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   </a>
     &emsp;
  
-  &emsp;
+ 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -57,7 +57,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   </a>
   &emsp;
   
-    &emsp; 
+    
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
@@ -65,12 +65,15 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
+	&emsp;
    <a href="https://www.javatpoint.com/embedded-system-c-programming" target="_blank"> 
     <img alt="Embedded C" src="https://img.shields.io/badge/embedded-c-red">
   </a>
+	&emsp;
    <a href="https://www.techno-science.net/glossaire-definition/VHDL.html" target="_blank"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%23007ACC.svg?logo=vhdl&logoColor=white">
   </a>
+	&emsp;
    <a href="https://pub.phyks.me/sdz/sdz/en-profondeur-avec-l-assembleur.html" target="_blank"> 
     <img alt="Assembler" src="https://img.shields.io/badge/-Assembler-red">
   </a>
