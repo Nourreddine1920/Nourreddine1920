@@ -185,7 +185,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
-    <a href=""><img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white"></a>  
+    <a href=""><img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a> 
   &emsp;
     <a href=""><img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white"></a>
   &emsp;
