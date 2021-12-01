@@ -253,11 +253,17 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
     <a href="#"><img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"></a>
       &emsp;
     <a href="#"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white"></a>
+	&emsp;
     <a href="#"><img alt="Matlab" src="https://img.shields.io/badge/-Matlab-orange"></a>
+	&emsp;
     <a href="#"><img alt="Altuim Designer" src="https://img.shields.io/badge/Altuim-Designer-yellowgreen"></a>
+	&emsp;
     <a href="#"><img alt="ISIS" src="https://img.shields.io/badge/-ISIS-blue"></a>
+	&emsp;
     <a href="#"><img alt="Xilinx" src="https://img.shields.io/badge/Xlinx-ISE-black"></a>
+	&emsp;
     <a href="#"><img alt="Quratus" src="https://img.shields.io/badge/-Quartus-lightgrey"></a>
+	&emsp;
 
 
 
