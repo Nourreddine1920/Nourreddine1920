@@ -193,7 +193,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
     
  </p>
 
-### 👉 Machine learning using Python Libraries
+### 👉 Machine learning  and Computer Vision  using Python Libraries
 <p align="left">
   &emsp;
     <a href=""><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
@@ -207,8 +207,13 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
     <a href=""><img alt="matplot" src="https://img.shields.io/badge/Matplotlib-Python-red"></a>  
       &emsp;
     <a href=""><img alt="gnsim" src="https://img.shields.io/badge/Gensim-Python-blue"></a>  
+	 &emsp;
+    <a href=""><img alt="openCV" src="https://img.shields.io/badge/Open-CV-orange"></a>  
+    
     
  </p>
+
+
 
 
 ### 👉 Web Scraping using Python Libraries
