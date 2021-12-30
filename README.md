@@ -269,7 +269,7 @@ A **Second Year Embedded Software Engineering Student** 🚀 at faculty of scien
     <a href="#"><img alt="Xilinx" src="https://img.shields.io/badge/Xlinx-ISE-black"></a>
 	&emsp;
     <a href="#"><img alt="Quratus" src="https://img.shields.io/badge/-Quartus-lightgrey"></a>
-	&emsp;
+	
 
 
 
