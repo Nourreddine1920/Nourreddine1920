@@ -10,7 +10,7 @@
 
 <h3 title="hehehe"> 👋 I'm Nourreddine !</h3>
 
-A **Second Year Embedded Software Engineering Student** 🚀 at faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
+A **Third Year Embedded Software Engineering Student** 🚀 at faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/Nourreddine1920"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
