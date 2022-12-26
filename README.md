@@ -23,7 +23,7 @@ A **Third Year Embedded Software Engineering Student** 🚀 at faculty of scienc
 
 <br>
 
- ### My Github Infos
+ ### 🚀 My Github Infos
 
 <a href="https://github.com/Nourreddine1920"></a>
 <br>
