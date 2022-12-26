@@ -16,7 +16,7 @@ A **Third Year Embedded Software Engineering Student** 🚀 at faculty of scienc
 	<a href="https://github.com/Nourreddine1920"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nourreddine-awled-brahim-663495202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100009169430223"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
-	<a href="https://instagram.com/rami.krispin.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
+	<a href="https://instagram.com/rami.krispin.ds" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
 
    
 </p>
