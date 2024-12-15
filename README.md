@@ -14,7 +14,7 @@ I am an enthusiastic **Embedded Software Engineer** 🚀 at **ACTIA Engineering 
 
 I have been working in the **Embedded Systems** domain for over **5 years**, where I have gained hands-on experience in designing, implementing, and testing embedded software for various applications. My expertise lies in working with **microcontrollers** like **STM32**, **Raspberry Pi** and **Arduino**, as well as developing low-level software in **C**, **C++**, and **Embedded C**.
 
-At ACTIA, I work alongside a skilled team to develop tailored solutions for +**STM32 microcontrollers**, collaborating closely with our client, **STMicroelectronics**. My focus is on optimizing system performance, reducing power consumption, and ensuring the highest level of reliability across all aspects of embedded system design.
+At ACTIA, I work alongside a skilled team to develop tailored solutions for **STM32 microcontrollers**, collaborating closely with our client, **STMicroelectronics**. My focus is on optimizing system performance, reducing power consumption, and ensuring the highest level of reliability across all aspects of embedded system design.
 
 I am also actively exploring **machine learning** applications within embedded systems, as well as diving into **AI** for edge computing to make systems smarter and more efficient. I believe in the endless possibilities embedded systems offer for shaping the future of technology.
 
