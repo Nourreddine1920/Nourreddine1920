@@ -18,7 +18,7 @@ I'm an **Embedded Software Engineer** 🚀 at ACTIA Engineering Services in Aria
 
 <p align="center">
   <a href="https://github.com/Nourreddine1920"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/nourreddine-awled-brahim-663495202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nourreddine-awled-brahim/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009169430223"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" /></a>
 </p>
 
@@ -133,8 +133,8 @@ I'm an **Embedded Software Engineer** 🚀 at ACTIA Engineering Services in Aria
 
 ## 📈 Latest Blog Posts
 
-- [Understanding Embedded Systems](https://www.example.com/blog/post-1)
-- [Mastering C Programming for Embedded Systems](https://www.example.com/blog/post-2)
+- [Understanding Polymorphism in C++]([https://www.example.com/blog/post-1](https://www.linkedin.com/feed/update/urn:li:activity:7274031006607626240/))
+- [Mastering Pointers and Memory Management in C++]([https://www.example.com/blog/post-2](https://www.linkedin.com/feed/update/urn:li:activity:7271147698177650688/))
 
 ---
 
@@ -148,6 +148,6 @@ I'm an **Embedded Software Engineer** 🚀 at ACTIA Engineering Services in Aria
 
 ## 📧 Contact Me
 
-Feel free to reach out to me via email: [your-email@example.com](mailto:your-email@example.com) or through the contact form on my [LinkedIn](https://www.linkedin.com/in/nourreddine-awled-brahim-663495202/).
+Feel free to reach out to me via email: [noureddine.awledbrahim@gmail.com](mailto:noureddine.awledbrahim@gmail.com) or through the contact form on my [LinkedIn](https://www.linkedin.com/in/nourreddine-awled-brahim/).
 
 ---
