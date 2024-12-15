@@ -10,7 +10,24 @@
 
 <h3>👋 I'm Nourreddine!</h3>
 
-I'm an **Embedded Software Engineer** 🚀 at ACTIA Engineering Services in Ariana, Tunisia.
+I am an enthusiastic **Embedded Software Engineer** 🚀 at **ACTIA Engineering Services** in Ariana, Tunisia. With a strong passion for technology and embedded systems, I specialize in developing innovative solutions that bridge the gap between hardware and software.
+
+I have been working in the **Embedded Systems** domain for over **5 years**, where I have gained hands-on experience in designing, implementing, and testing embedded software for various applications. My expertise lies in working with **microcontrollers** like **STM32**, **Raspberry Pi** and **Arduino**, as well as developing low-level software in **C**, **C++**, and **Embedded C**.
+
+At ACTIA, I work alongside a skilled team to develop tailored solutions for +**STM32 microcontrollers**, collaborating closely with our client, **STMicroelectronics** <a href="https://www.st.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/STMicroelectronics_logo.svg/1024px-STMicroelectronics_logo.svg.png" alt="STMicroelectronics Logo" width="80" style="vertical-align:middle; margin-left:5px;" /></a>. My focus is on optimizing system performance, reducing power consumption, and ensuring the highest level of reliability across all aspects of embedded system design.
+
+I am also actively exploring **machine learning** applications within embedded systems, as well as diving into **AI** for edge computing to make systems smarter and more efficient. I believe in the endless possibilities embedded systems offer for shaping the future of technology.
+
+Outside of my work, I love **contributing to open-source projects**, staying up-to-date with the latest trends in embedded systems, and **solving complex engineering problems**. I believe in lifelong learning and am constantly challenging myself to grow both technically and personally.
+
+---
+
+### A few things I enjoy:
+
+- 🌱 **Learning new technologies**: Currently focusing on **AI** and **IoT**.
+- 🧩 **Problem Solving**: Tackling real-world challenges with innovative solutions.
+- 🔧 **Hardware-Hacking**: Exploring the physical world of electronics and sensors.
+- 📚 **Sharing Knowledge**: Writing technical blogs and creating tutorials to help others learn.
 
 ---
 
