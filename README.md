@@ -43,19 +43,29 @@ Outside of my work, I love **contributing to open-source projects**, staying up-
 
 ### 🚀 My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
+# GitHub Profile Stats
+
+Here are some of my GitHub statistics:
 
 ## Profile Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
+  </div>
+  <div>
+    ![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=Nourreddine1920&repo=Nourreddine1920)
+  </div>
+</div>
 
 ## Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourreddine1920&layout=compact)
 
 ## Streak Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920)
 
-## Power Level
-![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=Nourreddine1920&repo=Nourreddine1920)
 
 ---
 
