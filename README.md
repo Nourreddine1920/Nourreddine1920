@@ -49,21 +49,36 @@ Here are some of my GitHub statistics:
 
 ## Profile Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
-  </div>
-  <div>
-    ![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=Nourreddine1920&repo=Nourreddine1920)
-  </div>
-</div>
-## Streak Stats
+<p align="center">
+  <a href="https://github.com/Nourreddine1920">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920" />
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920)
+<p align="center">
+  <a href="">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nourreddine1920&margin-w=5" alt="Nourreddine1920" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nourreddine1920&count_private=true&hide=stars,prs" alt="Nourreddine1920" />
+  </a>
+</p>
+
+
+## Profile Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
+
 ## Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourreddine1920&layout=compact)
 
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920)
+
+## Power Level
+![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=Nourreddine1920&repo=Nourreddine1920)
 
 ---
 
