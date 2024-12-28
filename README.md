@@ -43,24 +43,7 @@ Outside of my work, I love **contributing to open-source projects**, staying up-
 
 ### 🚀 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Nourreddine1920">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nourreddine1920&margin-w=5" alt="Nourreddine1920" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nourreddine1920&count_private=true&hide=stars,prs" alt="Nourreddine1920" />
-  </a>
-</p>
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
 
 ## Profile Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
