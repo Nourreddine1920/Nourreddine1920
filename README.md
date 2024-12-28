@@ -61,9 +61,22 @@ Outside of my work, I love **contributing to open-source projects**, staying up-
   </a>
 </p>
 
+
+## Profile Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+
+## Power Level
+![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME)
+
 ---
 
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 ### 👉 Programming Languages
 
