@@ -63,7 +63,7 @@ Here are some of my GitHub statistics:
 
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nourreddine1920&count_private=true&hide=stars,prs" alt="Nourreddine1920" />
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourreddine1920&show_icons=true&count_private=true)
   </a>
 </p>
 
