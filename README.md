@@ -57,14 +57,12 @@ Here are some of my GitHub statistics:
     ![Power Level](https://github-readme-stats.vercel.app/api/pin/?username=Nourreddine1920&repo=Nourreddine1920)
   </div>
 </div>
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourreddine1920&layout=compact)
-
 ## Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920)
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourreddine1920&layout=compact)
 
 
 ---
