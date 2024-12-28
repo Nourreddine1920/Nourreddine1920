@@ -45,10 +45,6 @@ Outside of my work, I love **contributing to open-source projects**, staying up-
 
 # GitHub Profile Stats
 
-Here are some of my GitHub statistics:
-
-## Profile Stats
-
 <p align="center">
   <a href="https://github.com/Nourreddine1920">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourreddine1920" />
